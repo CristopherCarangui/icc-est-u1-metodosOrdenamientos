@@ -7,5 +7,5 @@
 ### Fecha: 20/04/26
 ### Descripcion:
  Cree la clase "BubbleSort" que implemente el metodo de ordenamiento de burbuja,
- tres metod ascendente , descendente y 
+ tres metodos ascendente , descendente y 
  un mixto por parametro.
